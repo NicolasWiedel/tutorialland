@@ -2,7 +2,6 @@ package de.javadevblog.tutorialland;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import de.javadevblog.tutorialland.screens.MainGameScreen;
 import de.javadevblog.tutorialland.screens.MainMenuScreen;
 
 public class SpaceGame extends Game {
